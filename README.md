@@ -18,7 +18,7 @@ Welcome to my Python 60 Day Challenge repository! This is a daily log of solved 
 
 Each day’s folder includes:
 
-* **Problem Description** – What the challenge is about
+* **Problem Description** – Description of the Challenge
 * **Python Solution Code** – Complete working implementation
 * **Core Concepts** – Important Python topics used
 
