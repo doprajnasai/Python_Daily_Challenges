@@ -80,12 +80,12 @@ Concepts included:
 
 Main learning points:
 
-*This Python program takes marks of N students and stores them in a list.
-*It processes each mark using loops and classifies students into performance categories (Fail, Average, Good, Very Good, Excellent).
-*A personalization rule is applied by comparing the last digit of the entered roll number with a predefined roll number (AP24110011623).
-*If both last digits match (3), a +1 bonus mark is added to all students.
-*The program also counts total valid students and total failed students.
-*Finally, it displays updated marks and performance statistics.
+* This Python program takes marks of N students and stores them in a list.
+* It processes each mark using loops and classifies students into performance categories (Fail, Average, Good, Very Good, Excellent).
+* A personalization rule is applied by comparing the last digit of the entered roll number with a predefined roll number (AP24110011623).
+* If both last digits match (3), a +1 bonus mark is added to all students.
+* The program also counts total valid students and total failed students.
+* Finally, it displays updated marks and performance statistics.
 
 
 ### ✅ Day 4 – Cyber Activity Risk Analyzer
@@ -105,10 +105,10 @@ Important concepts:
 
 Concepts applied:
 
-*Lists for categorizing requests
-*for loops for classification
-*Conditional statements for demand levels
-*Counting valid and removed requests
-*Personalized filtering using PLI (L % 3 rule)
-*Calculated L (length of full name excluding spaces)
-*Computed PLI = L % 3 and applied Rule A/B/C accordingly
+* Lists for categorizing requests
+* for loops for classification
+* Conditional statements for demand levels
+* Counting valid and removed requests
+* Personalized filtering using PLI (L % 3 rule)
+* Calculated L (length of full name excluding spaces)
+* Computed PLI = L % 3 and applied Rule A/B/C accordingly
