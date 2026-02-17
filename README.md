@@ -1,59 +1,8 @@
-**Python 60 Day Challenge**
+#**Python 60 Day Challenge**
 
 Welcome to my Python 60 Day Challenge repository! This is a daily log of solved Python programming challenges.
 
-**📅 Progress Tracker**
-| Day  |              Challenge               |     Status      |
-|------|--------------------------------------|-----------------|
-| 1    |User Profile Validation System        | Complete        |
-| 2    |Smart ID & Credential Validator       | Complete        |
-| 3    |Student Performance                   | Complete        |
-| 4    |Cyber Activity Risk Analyzer          | Complete        |
-| 5    |Emergency Resource Dispatch Analyzer  | Complete        |
-
-
-**📚 Repository Format**
-
-Each day’s folder includes:
-
-* **Problem Description** – What the challenge is about
-* **Python Solution Code** – Complete working implementation
-* **Core Concepts** – Important Python topics used
-
----
-
-**🎯 Challenge Objectives**
-
-* Solve **one Python project/problem daily**
-* Improve coding consistency and analytical skills
-* Build strong knowledge of both basic and advanced Python concepts
-
----
-
-**🛠️ How to Explore**
-
-1. Open the folder for a specific day
-2. Read the problem statement
-3. Go through the Python solution
-4. Run the program locally and experiment with inputs
-
----
-
-**🔧 Tech Stack Used**
-
-* **Python 3.x**
-* Built-in Python Standard Libraries
-
----
-
-**📅 Timeline**
-
-* **Start Date:** 28 January 2026
-* **Goal:** Complete all challenges by **Day 60**
-
----
-
-**📝 Progress Tracker**
+##**📅 Progress Tracker**
 
 | Day | Challenge Title                      | Status      |
 | --- | ------------------------------------ | ----------- |
@@ -63,13 +12,51 @@ Each day’s folder includes:
 | 4   | Cyber Activity Risk Analyzer         | ✅ Completed |
 | 5   | Emergency Resource Dispatch Analyzer | ✅ Completed |
 
+
+
+##**📚 Repository Format**
+
+Each day’s folder includes:
+
+* **Problem Description** – What the challenge is about
+* **Python Solution Code** – Complete working implementation
+* **Core Concepts** – Important Python topics used
+
 ---
 
-**📖 Concepts Covered (Day-wise)**
+##**🎯 Challenge Objectives**
+
+* Solve **one Python project/problem daily**
+* Improve coding consistency and analytical skills
+* Build strong knowledge of both basic and advanced Python concepts
 
 ---
 
-✅ Day 1 – User Profile Validation System
+##**🛠️ How to Explore**
+
+1. Open the folder for a specific day
+2. Read the problem statement
+3. Go through the Python solution
+4. Run the program locally and experiment with inputs
+
+---
+
+##**🔧 Tech Stack Used**
+
+* **Python 3.x**
+* Built-in Python Standard Libraries
+
+---
+
+Start Date: 28 Jan 2026
+Target Completion: Day 60
+
+---
+
+##**📖 Concepts Covered (Day-wise)**
+
+
+###✅ Day 1 – User Profile Validation System
 
 Key topics practiced:
 
@@ -77,10 +64,9 @@ Key topics practiced:
 * Validation using conditional statements
 * Basic error-checking logic
 * Clean and structured output formatting
+  
 
----
-
-✅ Day 2 – Smart ID & Credential Validator
+###✅ Day 2 – Smart ID & Credential Validator
 
 Concepts included:
 
@@ -89,9 +75,8 @@ Concepts included:
 * Rule-based ID validation
 * Logical filtering and handling invalid entries
 
----
 
-✅ Day 3 – Student Performance Analyzer
+###✅ Day 3 – Student Performance Analyzer
 
 Main learning points:
 
@@ -103,9 +88,8 @@ Main learning points:
 * Lucky digit **7** in roll number
 * Special topper condition for specific roll–mark match
 
----
 
-✅ Day 4 – Cyber Activity Risk Analyzer
+###✅ Day 4 – Cyber Activity Risk Analyzer
 
 Important concepts:
 
@@ -117,9 +101,8 @@ Important concepts:
 * If **D is odd** → Critical logs removed
 * Count of removed logs tracked
 
----
 
-✅ Day 5 – Emergency Resource Dispatch Analyzer
+###✅ Day 5 – Emergency Resource Dispatch Analyzer
 
 Concepts applied:
 
@@ -129,5 +112,3 @@ Concepts applied:
 * Personalized filtering using PLI rule:
 * Full name length calculated (excluding spaces)
 * `PLI = L % 3`
-* Rule A / B / C applied based on PLI value
-
