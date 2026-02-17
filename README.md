@@ -1,7 +1,7 @@
-Python 60 Day Challenge
+**Python 60 Day Challenge**
 Welcome to my Python 60 Day Challenge repository! This is a daily log of solved Python programming challenges.
 
-📅 Progress Tracker
+**📅 Progress Tracker**
 | Day  |              Challenge               |     Status      |
 |------|--------------------------------------|-----------------|
 | 1    |User Profile Validation System        | Complete        |
@@ -11,7 +11,7 @@ Welcome to my Python 60 Day Challenge repository! This is a daily log of solved 
 | 5    |Emergency Resource Dispatch Analyzer  | Complete        |
 
 
-📚 Repository Format
+**📚 Repository Format**
 
 Each day’s folder includes:
 
@@ -21,7 +21,7 @@ Each day’s folder includes:
 
 ---
 
-🎯 Challenge Objectives
+**🎯 Challenge Objectives**
 
 * Solve **one Python project/problem daily**
 * Improve coding consistency and analytical skills
@@ -29,7 +29,7 @@ Each day’s folder includes:
 
 ---
 
-🛠️ How to Explore
+**🛠️ How to Explore**
 
 1. Open the folder for a specific day
 2. Read the problem statement
@@ -38,21 +38,21 @@ Each day’s folder includes:
 
 ---
 
-🔧 Tech Stack Used
+**🔧 Tech Stack Used**
 
 * **Python 3.x**
 * Built-in Python Standard Libraries
 
 ---
 
-📅 Timeline
+**📅 Timeline**
 
 * **Start Date:** 28 January 2026
 * **Goal:** Complete all challenges by **Day 60**
 
 ---
 
-📝 Progress Tracker
+**📝 Progress Tracker**
 
 | Day | Challenge Title                      | Status      |
 | --- | ------------------------------------ | ----------- |
@@ -64,7 +64,7 @@ Each day’s folder includes:
 
 ---
 
-📖 Concepts Covered (Day-wise)
+**📖 Concepts Covered (Day-wise)**
 
 ---
 
