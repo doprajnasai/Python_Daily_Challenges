@@ -64,7 +64,8 @@ Key topics practiced:
 * Validation using conditional statements
 * Basic error-checking logic
 * Clean and structured output formatting
-  
+
+---
 
 ### ✅ Day 2 – Smart ID & Credential Validator
 
@@ -75,6 +76,7 @@ Concepts included:
 * Rule-based ID validation
 * Logical filtering and handling invalid entries
 
+---
 
 ### ✅ Day 3 – Student Performance Analyzer
 
@@ -87,6 +89,7 @@ Main learning points:
 * The program also counts total valid students and total failed students.
 * Finally, it displays updated marks and performance statistics.
 
+---
 
 ### ✅ Day 4 – Cyber Activity Risk Analyzer
 
@@ -100,6 +103,7 @@ Important concepts:
 * If **D is even** → Critical logs removed
 * Count of removed logs tracked
 
+---
 
 ### ✅ Day 5 – Emergency Resource Dispatch Analyzer
 
