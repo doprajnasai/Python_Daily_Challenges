@@ -1,8 +1,8 @@
-#**Python 60 Day Challenge**
+# **Python 60 Day Challenge**
 
 Welcome to my Python 60 Day Challenge repository! This is a daily log of solved Python programming challenges.
 
-##**📅 Progress Tracker**
+## **📅 Progress Tracker**
 
 | Day | Challenge Title                      | Status      |
 | --- | ------------------------------------ | ----------- |
@@ -14,7 +14,7 @@ Welcome to my Python 60 Day Challenge repository! This is a daily log of solved 
 
 
 
-##**📚 Repository Format**
+## **📚 Repository Format**
 
 Each day’s folder includes:
 
@@ -24,7 +24,7 @@ Each day’s folder includes:
 
 ---
 
-##**🎯 Challenge Objectives**
+## **🎯 Challenge Objectives**
 
 * Solve **one Python project/problem daily**
 * Improve coding consistency and analytical skills
@@ -32,7 +32,7 @@ Each day’s folder includes:
 
 ---
 
-##**🛠️ How to Explore**
+## **🛠️ How to Explore**
 
 1. Open the folder for a specific day
 2. Read the problem statement
@@ -41,7 +41,7 @@ Each day’s folder includes:
 
 ---
 
-##**🔧 Tech Stack Used**
+## **🔧 Tech Stack Used**
 
 * **Python 3.x**
 * Built-in Python Standard Libraries
@@ -53,10 +53,10 @@ Target Completion: Day 60
 
 ---
 
-##**📖 Concepts Covered (Day-wise)**
+## **📖 Concepts Covered (Day-wise)**
 
 
-###✅ Day 1 – User Profile Validation System
+### ✅ Day 1 – User Profile Validation System
 
 Key topics practiced:
 
@@ -66,7 +66,7 @@ Key topics practiced:
 * Clean and structured output formatting
   
 
-###✅ Day 2 – Smart ID & Credential Validator
+### ✅ Day 2 – Smart ID & Credential Validator
 
 Concepts included:
 
@@ -76,7 +76,7 @@ Concepts included:
 * Logical filtering and handling invalid entries
 
 
-###✅ Day 3 – Student Performance Analyzer
+### ✅ Day 3 – Student Performance Analyzer
 
 Main learning points:
 
@@ -89,7 +89,7 @@ Main learning points:
 * Special topper condition for specific roll–mark match
 
 
-###✅ Day 4 – Cyber Activity Risk Analyzer
+### ✅ Day 4 – Cyber Activity Risk Analyzer
 
 Important concepts:
 
@@ -102,7 +102,7 @@ Important concepts:
 * Count of removed logs tracked
 
 
-###✅ Day 5 – Emergency Resource Dispatch Analyzer
+### ✅ Day 5 – Emergency Resource Dispatch Analyzer
 
 Concepts applied:
 
