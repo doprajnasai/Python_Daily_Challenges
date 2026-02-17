@@ -48,8 +48,8 @@ Each day’s folder includes:
 
 ---
 
-Start Date: 28 Jan 2026
-Target Completion: Day 60
+**Start Date:** 28 Jan 2026
+**Target Completion:** Day 60
 
 ---
 
