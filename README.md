@@ -1,4 +1,5 @@
 **Python 60 Day Challenge**
+
 Welcome to my Python 60 Day Challenge repository! This is a daily log of solved Python programming challenges.
 
 **📅 Progress Tracker**
