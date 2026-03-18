@@ -11,7 +11,7 @@ Welcome to my Python 60 Day Challenge repository! This is a daily log of solved 
 | 3   | Student Performance Analyzer         | ✅ Completed |
 | 4   | Cyber Activity Risk Analyzer         | ✅ Completed |
 | 5   | Emergency Resource Dispatch Analyzer | ✅ Completed |
-
+| 6   | Smart Transaction Risk detector      | ✅ Completed |
 
 
 ## **Repository Format**
@@ -116,3 +116,18 @@ Concepts applied:
 * Personalized filtering using PLI (L % 3 rule)
 * Calculated L (length of full name excluding spaces)
 * Computed PLI = L % 3 and applied Rule A/B/C accordingly
+
+---
+### ✅ Day 6 – Smart Transaction Risk detector
+
+Concepts Applied
+
+**Lists** for storing and categorizing transactions  
+**Dictionary** for grouping transactions into normal, large, high-risk, and invalid  
+**for loops** for iterating and classifying each transaction   **Conditional statements** for applying transaction category rules  
+**List comprehension** to filter valid transactions (`t > 0`)  
+**Counting logic** to track number of high-risk transactions  
+**Summation logic** to compute total transaction value  
+**Tuples** for storing transaction summary (total, high-risk count, number of valid transactions)  
+**Personalized risk classification logic** using combined conditions instead of single-rule evaluation  
+**Multi-condition decision making** (frequent transactions, large spending, suspicious activity) to determine final risk level  
