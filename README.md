@@ -122,12 +122,13 @@ Concepts applied:
 
 Concepts Applied
 
-**Lists** for storing and categorizing transactions  
-**Dictionary** for grouping transactions into normal, large, high-risk, and invalid  
-**for loops** for iterating and classifying each transaction   **Conditional statements** for applying transaction category rules  
-**List comprehension** to filter valid transactions (`t > 0`)  
-**Counting logic** to track number of high-risk transactions  
-**Summation logic** to compute total transaction value  
-**Tuples** for storing transaction summary (total, high-risk count, number of valid transactions)  
-**Personalized risk classification logic** using combined conditions instead of single-rule evaluation  
-**Multi-condition decision making** (frequent transactions, large spending, suspicious activity) to determine final risk level  
+* Lists for storing and categorizing transactions  
+* Dictionary for grouping transactions into normal, large, high-risk, and invalid  
+* for loops for iterating and classifying each transaction   **Conditional statements** for applying transaction category rules  
+* List comprehension to filter valid transactions (`t > 0`)  
+* Counting logic to track number of high-risk transactions  
+* Summation logic to compute total transaction value  
+* Tuples for storing transaction summary (total, high-risk count, number of valid transactions)  
+* **Personalization:** Implemented a custom risk classification system where the final risk level is determined using a combination of conditions (high-risk         transaction count, total transactions, and total spending) instead of relying on a single factor, making the detection more accurate
+  and realistic.
+* Multi-condition decision making** (frequent transactions, large spending, suspicious activity) to determine final risk level  
