@@ -4,14 +4,15 @@ Welcome to my Python 60 Day Challenge repository! This is a daily log of solved 
 
 ## **Progress Tracker**
 
-| Day | Challenge Title                      | Status      |
-| --- | ------------------------------------ | ----------- |
-| 1   | User Profile Validation System       | ✅ Completed |
-| 2   | Smart ID & Credential Validator      | ✅ Completed |
-| 3   | Student Performance Analyzer         | ✅ Completed |
-| 4   | Cyber Activity Risk Analyzer         | ✅ Completed |
-| 5   | Emergency Resource Dispatch Analyzer | ✅ Completed |
-| 6   | Smart Transaction Risk detector      | ✅ Completed |
+| Day | Challenge Title                              | Status      |
+| --- | ---------------------------------------------| ----------- |
+| 1   | User Profile Validation System               | ✅ Completed |
+| 2   | Smart ID & Credential Validator              | ✅ Completed |
+| 3   | Student Performance Analyzer                 | ✅ Completed |
+| 4   | Cyber Activity Risk Analyzer                 | ✅ Completed |
+| 5   | Emergency Resource Dispatch Analyzer         | ✅ Completed |
+| 6   | Smart Transaction Risk detector              | ✅ Completed |
+| 8   |Multi-Dimensional Academic Intelligence System| ✅ Completed |
 
 
 ## **Repository Format**
@@ -132,3 +133,19 @@ Concepts Applied
 * **Personalization:** Implemented a custom risk classification system where the final risk level is determined using a combination of conditions (high-risk         transaction count, total transactions, and total spending) instead of relying on a single factor, making the detection more accurate
   and realistic.
 * Multi-condition decision making** (frequent transactions, large spending, suspicious activity) to determine final risk level  
+
+### ✅Day 8 – Multi-Dimensional Academic Intelligence System
+
+Concepts Applied
+
+* Lists for storing student records
+* Tuples for storing each student’s marks, attendance, assignment, and performance index
+* Dictionary for classifying students into At Risk, Average, Good, and Top Performer
+* for loops for generating and classifying student data
+* Conditional statements for applying performance rules
+* Pandas DataFrame for tabular data analysis
+* NumPy for standard deviation and correlation calculation
+* List comprehension for marks normalization
+* Tuples for storing summary values (mean, std deviation, max marks)
+* Personalization: Number of students generated is based on register number (n = 24110011623 % 10 = 3)
+* Multi-condition logic for final academic insight generation
